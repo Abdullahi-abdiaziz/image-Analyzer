@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "ImageInsight",
+    "tagline": "Unlock Your Image's Hidden Details",
+    "description": "Discover when and where your photos were taken, what device was used, and more with our powerful image analysis tool."
+  },
+  "nav": {
+    "howItWorks": "How it works",
+    "about": "About"
+  },
+  "features": {
+    "upload": {
+      "title": "Easy Upload",
+      "description": "Drag & drop or click to upload your images"
+    },
+    "analysis": {
+      "title": "Instant Analysis",
+      "description": "Get detailed metadata in seconds"
+    },
+    "privacy": {
+      "title": "Privacy First",
+      "description": "Your images are processed locally"
+    }
+  },
+  "dropzone": {
+    "title": "Drop your image here or click to upload",
+    "subtitle": "Supports: JPG, PNG, HEIC",
+    "change": "Click or drag to change image"
+  },
+  "analysis": {
+    "button": "Analyze Image",
+    "analyzing": "Analyzing...",
+    "results": "Analysis Results",
+    "noData": "No metadata found",
+    "error": "Failed to read metadata",
+    "metadata": {
+      "captureDate": "Capture Date",
+      "location": "Location",
+      "camera": "Camera",
+      "settings": "Camera Settings",
+      "dimensions": "Dimensions",
+      "software": "Software Used",
+      "modified": "Last Modified"
+    }
+  },
+  "footer": {
+    "description": "Discover the hidden details in your images with our powerful metadata analysis tool. Privacy-focused, fast, and easy to use.",
+    "links": {
+      "title": "Quick Links",
+      "howItWorks": "How it Works",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "connect": {
+      "title": "Connect"
+    },
+    "rights": "All rights reserved."
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  }
+}

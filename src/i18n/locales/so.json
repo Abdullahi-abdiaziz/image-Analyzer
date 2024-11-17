@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "ImageInsight",
+    "tagline": "Soo saar Faahfaahinta Sawirkaaga Qarsoon",
+    "description": "Ogaaw goorta iyo halka sawirradaada laga qaatay, qalabka loo isticmaalay, iyo wax badan oo kale oo ah qalab awood leh oo sawir-falanqayn ah."
+  },
+  "nav": {
+    "howItWorks": "Sida ay u shaqeyso",
+    "about": "Ku saabsan"
+  },
+  "features": {
+    "upload": {
+      "title": "Soo gelinta Fudud",
+      "description": "Jiid oo dhig ama guji si aad u soo geliso sawirradaada"
+    },
+    "analysis": {
+      "title": "Falanqayn Degdeg ah",
+      "description": "Hel xogta faahfaahsan ilbiriqsiyo gudahood"
+    },
+    "privacy": {
+      "title": "Asturnaanta Koowaad",
+      "description": "Sawirradaada waxaa lagu badhitaaraa si maxalli ah"
+    }
+  },
+  "dropzone": {
+    "title": "Ku rid sawirkaaga halkan ama guji si aad u soo geliso",
+    "subtitle": "Waxaa la taageeraa: JPG, PNG, HEIC",
+    "change": "Guji ama jiid si aad u bedesho sawirka"
+  },
+  "analysis": {
+    "button": "Falanqee Sawirka",
+    "analyzing": "Falanqaynta...",
+    "results": "Natiijooyinka Falanqaynta",
+    "noData": "Ma jiro xog la helay",
+    "error": "Waa lagu guuldaraystay inaan la akhriyo xogta",
+    "metadata": {
+      "captureDate": "Taariikhda la Qaatay",
+      "location": "Goobta",
+      "camera": "Kaamarada",
+      "settings": "Dejinta Kaamarada",
+      "dimensions": "Cabirrada",
+      "software": "Barnaamijka la Isticmaalay",
+      "modified": "Markii ugu Dambeysay ee la Bedelay"
+    }
+  },
+  "footer": {
+    "description": "Ka hel faahfaahinta qarsoon ee sawirradaada adoo isticmaalaya qalab awood leh oo xog-falanqayn ah. Asturnaanta ayaa mudnaanta leh, waa degdeg, waana fudud yahay in la isticmaalo.",
+    "links": {
+      "title": "Xiriiriyeyaasha Degdega ah",
+      "howItWorks": "Sida ay u Shaqeyso",
+      "privacy": "Siyaasadda Asturnaanta",
+      "terms": "Shuruudaha Adeegga"
+    },
+    "connect": {
+      "title": "Ku Xiriir"
+    },
+    "rights": "Dhammaan xuquuqda waa dhowran tahay."
+  },
+  "theme": {
+    "toggle": "Beddel muuqaalka"
+  }
+}
